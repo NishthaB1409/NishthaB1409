@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Nishtha Bhagyawant
 
 🚀 **AI Engineer | GenAI | Agentic AI | RAG Systems**
-🎓 MSc Artificial Intelligence @ TU Chemnitz  
+
+🎓 MSc Web Engineering @ TU Chemnitz  
 📍 Germany  
 
 I’m a Master’s student in Web Engineering at TU Chemnitz, focused on building **Generative AI systems**, **LLM-powered applications**, and **scalable backend infrastructures**.
@@ -82,9 +83,7 @@ I enjoy turning AI models into real-world systems — from **RAG-based assistant
 - Generative AI  
 - AI Engineering  
 - Applied Machine Learning  
-- MLOps / AI Systems  
-
-📍 Germany  
+- MLOps / AI Systems    
 
 ---
 
