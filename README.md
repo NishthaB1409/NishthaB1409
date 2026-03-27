@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Nishtha Bhagyawant
 
-🚀 **GenAI Engineer | AI Systems | LLM Applications | Backend AI**
+🚀 **AI Engineer | GenAI | Agentic AI | RAG Systems**
+🎓 MSc Artificial Intelligence @ TU Chemnitz  
+📍 Germany  
 
 I’m a Master’s student in Web Engineering at TU Chemnitz, focused on building **Generative AI systems**, **LLM-powered applications**, and **scalable backend infrastructures**.
 
@@ -21,55 +23,56 @@ I enjoy turning AI models into real-world systems — from **RAG-based assistant
 ## 🛠️ Tech Stack
 
 ### Languages & Backend  
-Python | FastAPI | REST APIs | C/C++
+`Python` `C/C++` `JavaScript` `FastAPI` `REST API` 
 
 ### Generative AI & ML  
-LLMs | LangChain | RAG | OpenAI APIs | Hugging Face | Scikit-learn | PyTorch | TensorFlow  
+`LLMs` `LangChain` `RAG` `OpenAI APIs` `Hugging Face` `Scikit-learn` `PyTorch` `TensorFlow`  
 
-### Data & Systems  
-Pandas | NumPy | Data Pipelines | Log Analysis  
+### Databases  
+`MySQL` `Postgre SQL` `MongoDB`  
 
 ### DevOps & Cloud  
-Docker | AWS (EC2, S3, IAM) | CI/CD | Git  
+`Docker` `AWS (EC2, S3, IAM)` `CI/CD` `Git`  
 
 ---
 
-## 🚀 Featured Projects
+## 📚 Research & Publications
+
+📄 **Sign Language Detection and Recognition Using Image Processing**  
+      IJSCE 2025  
+
+---
+
+
+## 🚀 Key Projects
 
 ### 🔍 AI Log Analysis System
-- Built a system to analyze large-scale CI/CD logs  
-- Detects recurring failures and anomalies  
-- Improves debugging efficiency using pattern recognition  
-
----
-
-### 🤖 AI Automation Agent (Jarvis)
-- Voice-enabled AI assistant for task execution  
-- Uses natural language to automate workflows  
-- Modular architecture for tool integration  
-
----
-
-### 📊 Repository Analysis Tool
-- Full-stack system for analyzing Git repositories  
-- Backend built with FastAPI and REST APIs  
-- Provides insights into commits, forks, and activity  
+- Developed a system to process **large-scale CI/CD logs**  
+- Detects recurring failures and anomalies using pattern recognition  
+- Reduces debugging time through automated insights  
 
 ---
 
 ### 🧠 RAG-based Knowledge Assistant
-- Built a retrieval-augmented system for contextual Q&A  
-- Uses embeddings and vector-based retrieval  
-- Improves accuracy by grounding LLM responses  
+- Built a **retrieval-augmented AI system** for contextual Q&A  
+- Implemented embedding pipelines with vector-based retrieval  
+- Improved response accuracy through grounded generation  
+
+---
+
+### 🤖 AI Automation Agent (Jarvis)
+- Designed a **voice-enabled AI agent** for workflow automation  
+- Executes tasks using natural language commands  
+- Modular architecture enabling seamless tool integration
 
 ---
 
 ## 🌱 Currently Exploring
 
 - Agentic AI systems  
-- Advanced RAG architectures  
-- LLM evaluation & optimization  
-- AI for developer productivity  
+- Advanced RAG architectures
+- AI Metaverse
+- Multimodal AI  
 
 ---
 
@@ -93,4 +96,4 @@ Docker | AWS (EC2, S3, IAM) | CI/CD | Git
 
 ---
 
-⭐ *Always building, always learning — focused on creating real-world AI systems that make an impact.*
+⭐ Building intelligent systems that turn AI capabilities into real-world impact.*
