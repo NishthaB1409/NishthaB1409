@@ -1,34 +1,117 @@
-<div align="center">
+Hi there 👋 I'm Nishtha Bhagyawant
+🚀 AI/ML Engineer | LLMs • RAG Systems • Agentic AI • Full Stack
+🎓 MSc Web Engineering @ TU Chemnitz
+📍 Germany
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4c1d95,100:7c3aed&height=220&section=header&text=Nishtha%20Bhagyawant&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" />
+I'm an AI-focused software engineer with hands-on experience in Machine Learning, Deep Learning, NLP, and Computer Vision, building scalable AI systems using Python, PyTorch, and FastAPI.
+I enjoy working at the intersection of AI research, real-world applications, and cloud-native deployment.
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+RAG+%26+Agentic+Systems;Building+Production-Grade+LLM+Pipelines;Full+Stack+Development+%7C+FastAPI+%2B+React;M.Sc.+Web+Engineering+%40+TU+Chemnitz" alt="Typing SVG" />
-</a>
+## 🧠 Areas of Interest
 
-<br/>
+* Retrieval-Augmented Generation (RAG)
+* Large Language Models (LLMs)
+* Multi-Agent & Agentic AI Systems
+* LLM Evaluation & Observability
+* Machine Learning & Deep Learning
+* Computer Vision & NLP
+* AI-driven Web Applications
+* MLOps & Cloud Deployment
 
-<img src="https://img.shields.io/badge/M.Sc.%20Web%20Engineering-TU%20Chemnitz-7c3aed?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/B.E.%20Computer%20Engineering-2024-4c1d95?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/📍%20Chemnitz-Germany-6d28d9?style=for-the-badge" />
+## 🛠 Tech Stack
 
-<br/>
+**Languages**
+`Python` `TypeScript` `JavaScript` `C++` `SQL` `MATLAB` `HTML` `CSS`
 
-<a href="https://nish-portfolio-five.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/nishtha-bhagyawant/">
-  <img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:nishthabhagyawant@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/NishthaB1409">
-  <img src="https://img.shields.io/badge/GitHub-1a0033?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**ML / AI Libraries**
+`PyTorch` `Scikit-Learn` `NumPy` `Pandas` `SciPy`
+`HuggingFace Transformers` `OpenCV` `Sentence-BERT`
 
-<br/><br/>
+**LLM / RAG Stack**
+`LangChain` `LangGraph` `Qdrant` `ChromaDB` `FAISS`
+`Ragas` `LangSmith` `MLflow`
 
-<img src="https://komarev.com/ghpvc/?username=NishthaB1409&label=Profile%20Views&color=7c3aed&style=flat-square" />
-<img src="https://img.shields.io/github/followers/NishthaB1409?label=Followers&style=flat-square&color=6d28d9" />
-<img src="https://img.shields.io/github/stars/NishthaB1409?label=Stars&
+**Backend & MLOps**
+`FastAPI` `Docker` `Git` `GitHub Actions` `Linux` `AWS`
+
+**Databases**
+`SQL` `MySQL` `PostgreSQL` `MongoDB`
+
+**Visualization**
+`Matplotlib` `Seaborn` `Jupyter Notebook`
+
+## 🚀 Featured AI Projects
+
+### 📄 Enterprise Document-Intelligence Agent
+Agentic RAG system that ingests PDFs and contracts, answers questions with citations, and routes low-confidence answers to a human reviewer.
+
+**Tech:**
+FastAPI • LangGraph • LangChain • Qdrant • Ragas • Docker
+
+**Features**
+
+* Document ingestion & citation-grounded answering
+* Retrieval as an agent decision (agentic RAG)
+* Inconsistency flagging with confidence scoring
+* Human-in-the-loop routing for low-confidence outputs
+
+### 🔍 Hybrid-Search RAG Pipeline
+Production-grade RAG pipeline combining dense embeddings with BM25 retrieval fused via Reciprocal Rank Fusion.
+
+**Tech:**
+Python • FastAPI • LangChain • Qdrant • Sentence-BERT
+
+**Features**
+
+* Hybrid dense + sparse retrieval (BM25/RRF)
+* Sentence-BERT reranking for high precision
+* Sub-second retrieval over large corpora
+* Scalable FastAPI backend
+
+### 🧩 Autonomous Research Intelligence (ARI)
+Multi-agent research pipeline that coordinates specialized agents for retrieval, analysis, and synthesis, with a Streamlit UI.
+
+**Tech:**
+Python • LangChain • LangGraph • Streamlit
+
+**Features**
+
+* Multi-agent orchestration with tool-use
+* Automated research & synthesis workflows
+* Interactive Streamlit front end
+
+## 📚 Research & Publications
+
+📄 **Sign Language Detection and Recognition using Image Processing**
+IJSCE, Vol. 15(2), 2025 — DOI: 10.35940/ijsce.B3668.15020525
+
+## 💼 Experience
+
+**Software Developer / AI-ML Engineer | LTIMindtree**
+📍 Mumbai, India
+
+* Built and evaluated ML models, EDA workflows, and model-evaluation pipelines
+* Developed Python backends and REST APIs for data-driven product features
+* Contributed to CI/CD, containerization, and code-quality practices
+
+**Data Science Intern | Exposys Data Labs**
+📍 Remote
+
+* Performed EDA and feature engineering on real datasets
+* Trained, tuned, and evaluated ML models against defined metrics
+* Documented model performance and findings for stakeholders
+
+## 📚 Currently Exploring
+
+* Retrieval-Augmented Generation (RAG) optimization
+* LangGraph & Agentic AI systems
+* LLM evaluation & observability at scale
+* Model quantization & efficient inference (ONNX)
+
+## 🌐 Connect with Me
+
+📧 Email: [nishthabhagyawant@gmail.com](mailto:nishthabhagyawant@gmail.com)
+💼 LinkedIn: [https://linkedin.com/in/nishtha-bhagyawant](https://linkedin.com/in/nishtha-bhagyawant)
+🌍 Portfolio: [https://nish-portfolio-five.vercel.app](https://nish-portfolio-five.vercel.app/)
+💻 GitHub: https://github.com/NishthaB1409
+
+⭐ Always learning, always building — open to AI/ML engineering roles, research, and collaborations!
