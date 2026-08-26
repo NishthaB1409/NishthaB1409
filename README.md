@@ -1,7 +1,9 @@
 Hi there 👋 I'm Nishtha Bhagyawant
 
 🚀 AI/ML Engineer | LLMs • RAG Systems • Agentic AI • Full Stack
+
 🎓 MSc Web Engineering @ TU Chemnitz
+
 📍 Germany
 
 I'm an AI-focused software engineer with hands-on experience in Machine Learning, Deep Learning, NLP, and Computer Vision, building scalable AI systems using Python, PyTorch, and FastAPI.
