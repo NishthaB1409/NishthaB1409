@@ -1,98 +1,34 @@
-# 👋 Hi, I'm Nishtha Bhagyawant
+<div align="center">
 
-🚀 **AI Engineer | GenAI | Agentic AI | RAG Systems**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4c1d95,100:7c3aed&height=220&section=header&text=Nishtha%20Bhagyawant&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" />
 
-🎓 MSc Web Engineering @ TU Chemnitz  
-📍 Germany  
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+RAG+%26+Agentic+Systems;Building+Production-Grade+LLM+Pipelines;Full+Stack+Development+%7C+FastAPI+%2B+React;M.Sc.+Web+Engineering+%40+TU+Chemnitz" alt="Typing SVG" />
+</a>
 
-I’m a Master’s student in Web Engineering at TU Chemnitz, focused on building **Generative AI systems**, **LLM-powered applications**, and **scalable backend infrastructures**.
+<br/>
 
-I enjoy turning AI models into real-world systems — from **RAG-based assistants** to **automation agents** and **data-driven tools**.
+<img src="https://img.shields.io/badge/M.Sc.%20Web%20Engineering-TU%20Chemnitz-7c3aed?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/B.E.%20Computer%20Engineering-2024-4c1d95?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/📍%20Chemnitz-Germany-6d28d9?style=for-the-badge" />
 
----
+<br/>
 
-## 🧠 What I Do
+<a href="https://nish-portfolio-five.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/nishtha-bhagyawant/">
+  <img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:nishthabhagyawant@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/NishthaB1409">
+  <img src="https://img.shields.io/badge/GitHub-1a0033?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-- 🤖 Build **LLM-powered applications** using OpenAI APIs & LangChain  
-- 🔎 Develop **RAG pipelines** for context-aware AI systems  
-- ⚙️ Design **AI agents** for task automation  
-- 🏗️ Create scalable **backend systems** using FastAPI  
-- 📊 Analyze large datasets (e.g., logs, repositories) for insights  
+<br/><br/>
 
----
-
-## 🛠️ Tech Stack
-
-### Languages & Backend  
-`Python` `C/C++` `JavaScript` `FastAPI` `REST API` 
-
-### Generative AI & ML  
-`LLMs` `LangChain` `RAG` `OpenAI APIs` `Hugging Face` `Scikit-learn` `PyTorch` `TensorFlow`  
-
-### Databases  
-`MySQL` `Postgre SQL` `MongoDB`  
-
-### DevOps & Cloud  
-`Docker` `AWS (EC2, S3, IAM)` `CI/CD` `Git`  
-
----
-
-## 📚 Research & Publications
-
-📄 **Sign Language Detection and Recognition Using Image Processing**  
-      IJSCE 2025  
-
----
-
-
-## 🚀 Key Projects
-
-### 🔍 AI Log Analysis System
-- Developed a system to process **large-scale CI/CD logs**  
-- Detects recurring failures and anomalies using pattern recognition  
-- Reduces debugging time through automated insights  
-
----
-
-### 🧠 RAG-based Knowledge Assistant
-- Built a **retrieval-augmented AI system** for contextual Q&A  
-- Implemented embedding pipelines with vector-based retrieval  
-- Improved response accuracy through grounded generation  
-
----
-
-### 🤖 AI Automation Agent (Jarvis)
-- Designed a **voice-enabled AI agent** for workflow automation  
-- Executes tasks using natural language commands  
-- Modular architecture enabling seamless tool integration
-
----
-
-## 🌱 Currently Exploring
-
-- Agentic AI systems  
-- Advanced RAG architectures
-- AI Metaverse
-- Multimodal AI  
-
----
-
-## 🎯 Looking For
-
-💼 Werkstudent opportunities in:
-- Generative AI  
-- AI Engineering  
-- Applied Machine Learning  
-- MLOps / AI Systems    
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/nishtha-bhagyawant-507b721b9/ 
-- 💻 GitHub: https://github.com/NishthaB1409
-- ✉️ Email: bhagyawantnishtha@gmail.com  
-
----
-
-⭐ Building intelligent systems that turn AI capabilities into real-world impact.*
+<img src="https://komarev.com/ghpvc/?username=NishthaB1409&label=Profile%20Views&color=7c3aed&style=flat-square" />
+<img src="https://img.shields.io/github/followers/NishthaB1409?label=Followers&style=flat-square&color=6d28d9" />
+<img src="https://img.shields.io/github/stars/NishthaB1409?label=Stars&
